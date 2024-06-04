@@ -1,4 +1,4 @@
-#rceive the input names
+#receive the input names
 names=["Jane","Mary","Jane","Mark","Moses","Anne","John","Anne"]
 
 #sort alphabetically
