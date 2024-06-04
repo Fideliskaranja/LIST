@@ -1,0 +1,9 @@
+# Prompt user to enter a list
+names_input =input("Enter a list of names (separate by spaces):")
+
+#Display the enterd list of names
+print("List of names entered:")
+
+#Display the entered list of names
+print("List of names entered")
+print(names)

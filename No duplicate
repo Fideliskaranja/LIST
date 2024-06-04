@@ -1,0 +1,15 @@
+#rceive the input names
+names=["Jane","Mary","Jane","Mark","Moses","Anne","John","Anne"]
+
+#sort alphabetically
+names.sort()
+
+#remove duplicate by converting the list to a set and back to list
+names=list(set(names))
+
+#sort list after removing duplicates
+names.sort()
+#Display final sorted list
+print("final sorted list without duplicates:")
+for name in names:
+    print(name)
